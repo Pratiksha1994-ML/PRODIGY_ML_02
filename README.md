@@ -41,6 +41,6 @@ Customers are grouped into different clusters based on income and spending score
 ---
 
 ### 📷 Output Screenshot
-![Cluster Output](output.png)
+![Cluster Output](Output.png)
 
 ---
