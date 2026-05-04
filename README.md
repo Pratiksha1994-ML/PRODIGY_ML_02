@@ -8,7 +8,11 @@ To group customers of a retail store based on their purchase behavior using K-Me
 ---
 
 ### 📊 Dataset
-Mall Customers Dataset (Kaggle)
+
+The dataset used in this project is the Mall Customers dataset.
+
+🔗 Dataset Link:  
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 ---
 
@@ -37,6 +41,6 @@ Customers are grouped into different clusters based on income and spending score
 ---
 
 ### 📷 Output Screenshot
-![Cluster Output](output.png)
+![Cluster Output](output task 2.png)
 
 ---
