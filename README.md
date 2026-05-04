@@ -16,6 +16,9 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 ---
 
+### 🤖 Algorithm Used
+K-Means Clustering (Unsupervised Machine Learning)
+
 ### ⚙️ Technologies Used
 - Python
 - Pandas
@@ -34,6 +37,8 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 6. Data Visualization
 
 ---
+
+
 
 ### 📈 Output
 Customers are grouped into different clusters based on income and spending score.
